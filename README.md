@@ -40,9 +40,6 @@ This dashboard delivers powerful business insights through interactive visuals, 
 
 ---
 
-
----
-
 ## 📥 How to Use This Project
 1. Download or clone this repository  
 2. Open the `.pbix` file in **Power BI Desktop**  
