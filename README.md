@@ -62,7 +62,7 @@ This dashboard delivers powerful business insights through interactive visuals, 
 
 ## 🖼 Dashboard Preview
 ```markdown
-![Adidas Sales Dashboard](Images/dashboard_screenshot.png)
+![Adidas Sales Dashboard](Dashboard_image.png)
 ```
 
 ---
