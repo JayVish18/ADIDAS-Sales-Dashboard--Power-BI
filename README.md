@@ -39,6 +39,33 @@ This dashboard delivers powerful business insights through interactive visuals, 
 - 📌 Clean UI with Adidas-themed colors and branding  
 
 ---
+
+
+---
+
+## 📥 How to Use This Project
+1. Download or clone this repository  
+2. Open the `.pbix` file in **Power BI Desktop**  
+3. Explore the dashboard using slicers and filters  
+4. Modify visuals or add new insights as needed  
+
+---
+
+## 📈 What I Learned
+- 🔸 End-to-end dashboard development  
+- 🔸 Creating **DAX Measures** for KPIs  
+- 🔸 Data cleaning using Power Query  
+- 🔸 Designing visually appealing BI dashboards  
+- 🔸 Using analytics to support decision-making  
+
+---
+
+## 🖼 Dashboard Preview
+```markdown
+![Adidas Sales Dashboard](Images/dashboard_screenshot.png)
+```
+
+---
 ## 🏁 Conclusion
 - This project demonstrates how Power BI can transform raw sales data into meaningful insights.
 - It highlights trends, identifies high-performing regions/products, and enables better business decisions.
