@@ -57,28 +57,6 @@ This dashboard delivers powerful business insights through interactive visuals, 
 - 🔸 Data cleaning using Power Query  
 - 🔸 Designing visually appealing BI dashboards  
 - 🔸 Using analytics to support decision-making  
-
----
-
-## 🖼 Dashboard Preview
-```markdown
-Dashboard_image.png
-```
----
-![Dashboard_image.png]
-
----
-## 🖼 Dashboard Preview
-```markdown
-![Adidas Sales Dashboard](Dashboard_image.png)
-
-```
-----
-
----
-## 🖼 Dashboard Preview
-```markdown
-![Adidas Sales Dashboard](Dashboard_image.png)
  
 ----
 ## 🏁 Conclusion
