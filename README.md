@@ -64,8 +64,23 @@ This dashboard delivers powerful business insights through interactive visuals, 
 ```markdown
 Dashboard_image.png
 ```
+---
+![Dashboard_image.png]
 
 ---
+## 🖼 Dashboard Preview
+```markdown
+![Adidas Sales Dashboard](Dashboard_image.png)
+
+```
+----
+
+---
+## 🖼 Dashboard Preview
+```markdown
+![Adidas Sales Dashboard](Dashboard_image.png)
+ 
+----
 ## 🏁 Conclusion
 - This project demonstrates how Power BI can transform raw sales data into meaningful insights.
 - It highlights trends, identifies high-performing regions/products, and enables better business decisions.
